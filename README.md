@@ -6,6 +6,10 @@ The goal of this project is to perform something like below,
 
 We want to draw a box around an object in an image, and put a text to show what objects we detected.
 
+## Introduction
+
+Object detection is a task to locate where the object is, and to label what the object is. Intuitively saying, it is to perform image classification all over the places in an image, extact important predictions, and draw graphics on the image such as boxes and tests to show that we succeeded in object detection.
+
 ## Methodology
 
 The project covers the following methodologies,
