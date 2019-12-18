@@ -2,7 +2,8 @@
 
 The goal of this project is to perform something like below,
 
-![][image_1] ![][image_2]
+![][image_1] 
+![][image_2]
 ![][image_3]
 
 We want to draw a box around an object in an image, and put a text to show what objects we detected.
