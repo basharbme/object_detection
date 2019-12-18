@@ -1,12 +1,10 @@
 # Object Detection with Deep Learning Model
 
-The goal of this project is to perform something like below,
+The goal of this project is to perform something like below. We want to draw a box around an object in an image, and put a text to show what objects we detected.
 
 ![][image_1] 
 ![][image_2]
 ![][image_3]
-
-We want to draw a box around an object in an image, and put a text to show what objects we detected.
 
 ## Introduction
 
