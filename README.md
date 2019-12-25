@@ -38,6 +38,14 @@ This project is not completely done yet, because we still have the following pro
 
 * Detection algorithm is not efficient, so it requires high computation so the process is slow.
 
+## Background
+
+Originally, this was a group project in Adavanced Data Analysis course at Columbia University MA in Statistics. We were the team with the following people. We were busy at that time in job hunting and other final projects. I'm really sorry for having pushed you so much to deliever results. I also had arguments with several people, and I made you upset. But I really wanna say thank you for your help until the project deadline. I wish you success and find a nice job. Let me pursuit this object detection task as my personal project in this github. Thank you.
+* Image classification model: Xinyue Li, Yicheng Li (Ethan), Xudong Guo (Tony)
+* Detection algorithm: Yuki Kitayama, Sixuan Li (SL), Huaqiu Chen (Charles)
+* Test dataset: Greg Lu, Chen Wang, Hang Hu (Hanna)
+* Documentation: Jingwen Wang (Emily), Jinrong Cao (Carol), Hang Hu (Hanna), Greg Lu, Chen Wang  
+
 [image_1]: https://github.com/yukikitayama/object_detection/blob/master/images/single_box_dog_01_model2.png
 [image_2]: https://github.com/yukikitayama/object_detection/blob/master/images/single_box_airplane_02_model2.png
 [image_3]: https://github.com/yukikitayama/object_detection/blob/master/images/single_box_frog_01_model2.png
