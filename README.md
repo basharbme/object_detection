@@ -6,6 +6,10 @@ The goal of this project is to perform something like below. We want to draw a b
 ![][image_2]
 ![][image_3]
 
+## Update
+
+2020-01-02 Yuki Kitayama: added data augmentation to model 2, which was performed by keras ImageDataGenerator. I added this augmentation because I supposed that maybe it would improve frog false positiveness. Long story short, it failed to improve detection. I think maybe we need to change color of the images by using imgaug library, or improve layers in neural network.
+
 ## Introduction
 
 Object detection is a task to locate where the object is, and to label what the object is. Intuitively saying, it is to perform image classification all over the places in an image, extact important predictions, and draw graphics on the image such as boxes and tests to show that we succeeded in object detection. For detail, please check the codes in this project and also read our [report](https://github.com/yukikitayama/object_detection/blob/master/documents/GR5291_Project_v22.pdf)
