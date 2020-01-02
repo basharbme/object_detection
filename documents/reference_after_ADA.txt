@@ -1,0 +1,2 @@
+* Sarin, S. (2019) Exploring Data Augmentation with Keras and TensorFlow. Retrieved from https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
+* Chollet, F. (2016) Building powerful image classification models using very little data. Retrieved from https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
