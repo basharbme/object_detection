@@ -10,7 +10,9 @@ The goal of this project is to perform something like below. We want to draw a b
 
 2020-01-02 Yuki Kitayama: 
 
-Added data augmentation to model 2, which was performed by keras ImageDataGenerator. I added this augmentation because I supposed that maybe it would improve frog false positiveness. Long story short, it failed to improve detection. I think maybe we need to change color of the images by using imgaug library, or improve layers in neural network.
+Added data augmentation to model 2, which was performed by keras ImageDataGenerator. The below is the augmented examples. I added this augmentation because I supposed that maybe it would improve frog false positiveness. Long story short, it failed to improve detection. I think maybe we need to change color of the images by using imgaug library, or improve layers in neural network.
+
+![][image_9]
 
 2020-01-06 Yuki Kitayama:
 
@@ -66,3 +68,4 @@ Originally, this was a group project in Adavanced Data Analysis course at Columb
 [image_6]: https://github.com/yukikitayama/object_detection/blob/master/images/single_box_cat_02_res.png
 [image_7]: https://github.com/yukikitayama/object_detection/blob/master/images/single_box_automobile_truck_02_model2.png
 [image_8]: https://github.com/yukikitayama/object_detection/blob/master/images/multi_objects_detection.png
+[image_9]: https://github.com/yukikitayama/object_detection/blob/master/images/augmented_frog.png
